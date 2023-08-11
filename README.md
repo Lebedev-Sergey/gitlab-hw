@@ -51,6 +51,8 @@ Router 2
 
 ![](https://user-images.githubusercontent.com/136073445/260073302-eed0c6e3-a32e-45d3-8657-21e9842c613b.png)
 
+[keepalived.conf](https://github.com/Lebedev-Sergey/gitlab-hw/blob/main/keepalived.conf)
+
 Скрипт
 
 ```
@@ -63,8 +65,6 @@ else
 fi
 
 ```
-
----
 
 ### Задание 3
 
